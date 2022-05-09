@@ -1,15 +1,28 @@
-# US Bikeshare
+# WeRateDogs banner
 
-## Overview
-In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+## Introduction
+Real-world data rarely comes clean. Using Python and its libraries, you will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. This is called data wrangling. You will document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.
 
-## What Software Do I Need?
-To complete this project, the following software requirements apply:
+The dataset that you will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 
-You should have Python 3, NumPy, and pandas installed using Anaconda
-A text editor, like Sublime or Atom.
-A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
+WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 
 
+## Project Steps Overview
+Your tasks in this project are as follows:
+
+Step 1: Gathering data
+
+Step 2: Assessing data
+
+Step 3: Cleaning data
+
+Step 4: Storing data
+
+Step 5: Analyzing, and visualizing data
+
+Step 6: Reporting
+* your data wrangling efforts
+* your data analyses and visualizations
 
 
